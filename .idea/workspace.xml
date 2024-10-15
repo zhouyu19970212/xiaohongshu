@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56e01e0-4b7a-47b6-9f83-4caf25d10ea7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/robot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaohongshu" beforeDir="false" afterPath="$PROJECT_DIR$/xiaohongshu" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xiaohongshu/Config.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiaohongshu/Config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xiaohongshu/Create.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiaohongshu/Create.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xiaohongshu/Init.py" beforeDir="false" afterPath="$PROJECT_DIR$/xiaohongshu/Init.py" afterDir="false" />
@@ -33,6 +29,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -164,11 +163,6 @@
           <url>file://$PROJECT_DIR$/xiaohongshu/xiaohongshu.py</url>
           <line>63</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/xiaohongshu/Create.py</url>
-          <line>97</line>
-          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
